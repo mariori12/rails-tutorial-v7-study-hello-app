@@ -1,11 +1,11 @@
-class ApplicationController < ActionController::Base
+# frozen_string_literal: true
 
+class ApplicationController < ActionController::Base
   def hello
-    render html: "Hello,world!"
+    render html: 'Hello,world!'
   end
 
   def goodbye
-    render html: "goodbye, world!"
+    render html: 'goodbye, world!'
   end
-
 end
