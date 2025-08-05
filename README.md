@@ -1,24 +1,13 @@
-# README
+# Ruby on Rails Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a sample Ruby on Rails application created while following the [Ruby on Rails Tutorial (7th Edition)](https://www.railstutorial.org/) by Michael Hartl.
 
-Things you may want to cover:
+The application is built using:
 
-* Ruby version
+- Ruby 3.2.8
+- Rails 7.0.4.3
+- SQLite3
 
-* System dependencies
+## Purpose
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This repository is intended for **educational purposes only** and serves as a learning aid while studying Ruby on Rails.
